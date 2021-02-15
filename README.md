@@ -26,5 +26,4 @@ The trim potentiometer controling output voltage is set to 690 ohm when measured
 
 
 
-
 ![Component designators.](https://i.imgur.com/i2lNYLG.jpg)
